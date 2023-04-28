@@ -1,0 +1,22 @@
+---
+title: "Felix Schramm"
+image: "Felix.jpg"
+links:
+  - label: Email
+    url: "mailto:felixschramm@me.com"
+  - label: LinkedIn
+    url: "https://linkedin.com/in/felixschramm49 target = ' _blank '"
+  - label: Twitter
+    url: "https://twitter.com/"
+  - label: GitHub
+    url: "https://github.com/FelixSchramm target = ' _blank '"
+
+output:
+  postcards::jolla
+site: distill::distill_website
+---
+ 
+  
+I am a classically trained Sociologist and Data Scientist living in the Berlin area. 
+Currently I am looking for a new challenge in Data Science, Market Research and Consulting.
+

@@ -1,0 +1,20 @@
+{
+  "articles": [
+    {
+      "path": "about.html",
+      "title": "About this site",
+      "description": "Some additional details about the website",
+      "author": [],
+      "contents": "\n\n\n\n",
+      "last_modified": "2023-04-28T11:37:14-06:00"
+    },
+    {
+      "path": "index.html",
+      "title": "Felix Schramm",
+      "author": [],
+      "contents": "\n\n          \n          \n          Felix Schramm\n          \n          \n          Home\n          About\n          ☰\n          \n          \n      \n        \n          \n            Felix Schramm\n          \n          \n            \n              I am a classically trained Sociologist and Data\n              Scientist living in the Berlin area. Currently I am\n              looking for a new challenge in Data Science, Market\n              Research and Consulting.\n            \n            \n              I am a classically trained Sociologist and Data\n              Scientist living in the Berlin area. Currently I am\n              looking for a new challenge in Data Science, Market\n              Research and Consulting.\n            \n          \n\n          \n            \n              \n                  \n                    \n                      Email\n                    \n                  \n                \n                                \n                  \n                    \n                      LinkedIn\n                    \n                  \n                \n                                \n                  \n                    \n                      Twitter\n                    \n                  \n                \n                                \n                  \n                    \n                      GitHub\n                    \n                  \n                \n                              \n          \n\n          \n            \n              \n                                \n                  \n                    Email\n                  \n                \n                                \n                  \n                    LinkedIn\n                  \n                \n                                \n                  \n                    Twitter\n                  \n                \n                                \n                  \n                    GitHub\n                  \n                \n                              \n            \n          \n        \n      \n    \n\n    \n    \n    ",
+      "last_modified": "2023-04-28T11:41:40-06:00"
+    }
+  ],
+  "collections": []
+}
