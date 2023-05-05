@@ -6,28 +6,22 @@
       "description": "Some additional details about the website",
       "author": [],
       "contents": "\n\n\n\n",
-      "last_modified": "2023-05-05T14:42:17-05:00"
+      "last_modified": "2023-05-05T15:36:57-05:00"
     },
     {
       "path": "CV.html",
-      "title": "Untitled",
-      "description": "A new article created using the Distill format.\n",
-      "author": [
-        {
-          "name": "Nora Jones",
-          "url": "https://example.com/norajones"
-        }
-      ],
+      "title": "Download Cover Letter",
+      "author": [],
       "date": "`r Sys.Date()`",
-      "contents": "\nDistill is a publication format for scientific and technical writing, native to the web.\nLearn more about using Distill for R Markdown at https://rstudio.github.io/distill.\n\n\n\n",
-      "last_modified": "2023-05-05T14:42:18-05:00"
+      "contents": "\n\n\n\n\nDownload .CV (German) here\n\nDistill is a publication format for scientific and technical writing, native to the web.\nLearn more about using Distill for R Markdown at https://rstudio.github.io/distill.\n\n\n\n",
+      "last_modified": "2023-05-05T15:36:59-05:00"
     },
     {
       "path": "index.html",
       "title": "Felix Schramm",
       "author": [],
       "contents": "\n\n          \n          \n          Felix Schramm\n          \n          \n          Home\n          CV\n          work sample\n          Papers & Interests\n          About\n          ☰\n          \n          \n      \n        \n          \n            Felix Schramm\n          \n          \n            \n              I am a classically trained Sociologist and Data\n              Scientist living in the Berlin area. Currently I am\n              looking for a new challenge in Data Science, Market\n              Research and Consulting.\n            \n            \n              I am a classically trained Sociologist and Data\n              Scientist living in the Berlin area. Currently I am\n              looking for a new challenge in Data Science, Market\n              Research and Consulting.\n            \n          \n\n          \n            \n              \n                  \n                    \n                      Email\n                    \n                  \n                \n                                \n                  \n                    \n                      LinkedIn\n                    \n                  \n                \n                                \n                  \n                    \n                      Twitter\n                    \n                  \n                \n                                \n                  \n                    \n                      GitHub\n                    \n                  \n                \n                              \n          \n\n          \n            \n              \n                                \n                  \n                    Email\n                  \n                \n                                \n                  \n                    LinkedIn\n                  \n                \n                                \n                  \n                    Twitter\n                  \n                \n                                \n                  \n                    GitHub\n                  \n                \n                              \n            \n          \n        \n      \n    \n\n    \n    \n    ",
-      "last_modified": "2023-05-05T14:42:21-05:00"
+      "last_modified": "2023-05-05T15:37:02-05:00"
     }
   ],
   "collections": []

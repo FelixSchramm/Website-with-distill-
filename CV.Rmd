@@ -1,12 +1,5 @@
 ---
-title: "Untitled"
-description: |
-  A new article created using the Distill format.
-author:
-  - name: Nora Jones 
-    url: https://example.com/norajones
-    affiliation: Spacely Sprockets
-    affiliation_url: https://example.com/spacelysprokets
+title: "Download Cover Letter"
 date: "`r Sys.Date()`"
 output: distill::distill_article
 ---
@@ -14,6 +7,18 @@ output: distill::distill_article
 ```{r setup, include=FALSE}
 knitr::opts_chunk$set(echo = FALSE)
 ```
+
+
+```{r PDF, include=T}
+library(knitr)
+knitr::include_graphics("CV/CV (German).PDF")
+```
+
+<div class="contributor_org">
+`r xfun::embed_file(here::here("CV", "CV (German).PDF"), text = "Download .CV (German) here")`
+
+</div>
+
 
 Distill is a publication format for scientific and technical writing, native to the web. 
 

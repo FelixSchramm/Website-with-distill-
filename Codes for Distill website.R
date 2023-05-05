@@ -9,7 +9,7 @@
 library(distill)
 library(postcards)
 library(usethis)
-
+library(here)
 install.packages("postcards")
 
 # 1. Initial creating the website with all it's part with the distill package
@@ -35,9 +35,26 @@ gitcreds::gitcreds_set()
 
 
 
-# Create new article 
+# 5. Create new article for the CV-Page
+# includes:
+# - PDF-download integration with the here package
+# - PDF - display
+
 
 create_article("CV")
 
+library(here)
+
+library(knitr)
+
+include_graphics()
+
+'<div class="contributor_org">
+  `r xfun::embed_file(here::here("rmarkdown1", "markdown1.Rmd"), text = "Download .Rmd here")`
+
+`r xfun::embed_file(here::here("rmarkdown1", "markdown1.docx"), text = "Download word document here")`
+
+`r xfun::embed_file(here::here("rmarkdown1", "markdown1.pdf"), text = "Download pdf here")`
+</div>' 
 
 
