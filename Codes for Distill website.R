@@ -35,6 +35,9 @@ gitcreds::gitcreds_set()
 
 
 
+# Create new article 
+
+create_article("CV")
 
 
 

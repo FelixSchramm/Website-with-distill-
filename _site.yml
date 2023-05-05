@@ -10,7 +10,7 @@ navbar:
     - text: "CV"
       href: CV.html
     - text: "work sample"
-      href: work:sample.html
+      href: work sample.html
     - text: "Papers & Interests"
       href: Papers & Intrests.html
     - text: "About"
